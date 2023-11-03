@@ -1,0 +1,3 @@
+Binary To Octal: 1011 => 13
+Binary To Octal: 1011 => 13
+Binary To Decimal: 1011 => 11
